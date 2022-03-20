@@ -2,8 +2,9 @@
 
 
 - 🔭 Hoje trabalho com ReactJS.
-- 🌱 Estou atualmente estudando e criando projetos em Node.Js e React-Native, e busco cada vez mais desenvolver os meus conhecimentos na área da tecnologia.
+- 🌱 Estou atualmente estudando e criando projetos em Node.Js e React-Native.
 - 📫 Contate-me através do meu email: tiagovillarim@gmail.com.
+- Meu objetivo é evoluir cada vez mais os meus conhecimentos para poder resolver problemas do dia a dia utilizando a tecnologia.z
 
 ##
 
