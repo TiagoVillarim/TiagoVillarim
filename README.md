@@ -1,7 +1,7 @@
 ## Olá eu sou Tiago Villarim, seja bem vindo 👋
 
 
-- 🔭 Hoje trabalho com ReactJS.
+- 🔭 Hoje trabalho com ReactJS e React-native.
 - 🌱 Estou atualmente estudando e criando projetos em Node.Js e React-Native.
 - 📫 Contate-me através do meu email: tiagovillarim@gmail.com.
 - Meu objetivo é evoluir cada vez mais os meus conhecimentos para poder resolver problemas do dia a dia utilizando a tecnologia.
