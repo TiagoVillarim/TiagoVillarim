@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com ReactJS e React-native.
-- 🌱 Estou atualmente trabalhando como desenvolvedor na ViitraInovações como desenvolvedor react js e react-native
+- 🌱 Estou atualmente trabalhando na ViitraInovações como desenvolvedor react js e react-native
 - Meu objetivo é evoluir cada vez mais os meus conhecimentos para poder resolver problemas do dia a dia utilizando a tecnologia.
 
 ##
